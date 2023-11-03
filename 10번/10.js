@@ -1,4 +1,4 @@
-function test(a,b) {
-    return (a, b) * 2
- }
- test(1,2);
+function num1 () {
+    document.querySelector(".test").value;
+    num1();
+}
