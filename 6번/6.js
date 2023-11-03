@@ -1,0 +1,1 @@
+document.querySelector("#id").innerText="제목입니다"
