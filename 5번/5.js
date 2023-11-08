@@ -1,8 +1,7 @@
-let 더하기 = 0;
+let i = 0;
 
 const 출력더하기 = document.querySelectorAll(".number");
 
-for (let i = 0; i < 3; i++ ) {
-    더하기 += 출력더하기[i];
+for (i = 0; i < 출력더하기.length; i++ ) {
+    console.log(Number(출력더하기[i].innerText) + 10)
 }
-console.log(더하기)
