@@ -1,0 +1,10 @@
+main {
+    height: 300vh;
+    background-color: bisque;
+  }
+  
+  .up-button {
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+  }
